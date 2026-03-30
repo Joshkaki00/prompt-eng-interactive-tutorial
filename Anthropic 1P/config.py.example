@@ -1,0 +1,5 @@
+# Configuration file for API credentials
+# Copy this file to config.py and add your real API key
+
+API_KEY = "YOUR_API_KEY_HERE"
+MODEL_NAME = "claude-haiku-4-5-20251001"

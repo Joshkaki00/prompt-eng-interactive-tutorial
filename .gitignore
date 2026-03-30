@@ -236,4 +236,7 @@ pyrightconfig.json
 .history
 .ionide
 
+# API Keys and Config
+Anthropic 1P/config.py
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,jupyternotebooks,python
